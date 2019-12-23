@@ -1,4 +1,4 @@
-//Copyright 2018 Your name <your_email>
+//Copyright 2018 olkravi <your_email>
 #include <gtest/gtest.h>
 #include <json.hpp>
 
